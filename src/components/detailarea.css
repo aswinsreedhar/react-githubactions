@@ -1,0 +1,8 @@
+.detailArea {
+    /* border: 1px dashed red; */
+    width: 90%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

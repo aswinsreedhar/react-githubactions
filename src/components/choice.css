@@ -1,0 +1,12 @@
+.choicediv {
+    display: flex;
+    margin: 10px;
+}
+
+.choicediv>button {
+    margin: 10px;
+}
+
+.choicediv>a {
+    margin: 10px;
+}

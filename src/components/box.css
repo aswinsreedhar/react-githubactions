@@ -1,0 +1,16 @@
+.boxdiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+
+.boxdiv>p {
+    width: 100px;
+    height: auto;
+    /* border: 1px solid green; */
+    margin: 10px;
+    font-size: large;
+    font-weight: bold;
+    overflow-wrap: break-word;
+}
